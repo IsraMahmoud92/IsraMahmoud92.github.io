@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Welcome</title>
+    <style>
+      /* CSS to make text blue and center the image */
+      h1, p {
+        color: blue;
+        text-align: center;
+      }
+
+      img {
+        display: block;
+        margin: 0 auto; /* Center the image horizontally */
+      }
+    </style>
+  </head>
+  <body>
+    <h1>My name is Isra</h1>
+    <p>I am Isra and I applied for a programming course!</p>
+    <a href="https://www.omega365.com/">Visit Omega365.com</a>
+    <img src="IMG_1094.jpeg" alt="Girl in a jacket">
+  </body>
+</html>
